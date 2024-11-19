@@ -1,0 +1,83 @@
+create database WebBanGao
+use WebBanGao
+
+CREATE TABLE NguoiDung (
+    ID INT PRIMARY KEY IDENTITY(1,1),
+    TaiKhoan NVARCHAR(50) NOT NULL UNIQUE,
+    MatKhau NVARCHAR(255) NOT NULL,
+    MaLoaiND NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Kho (
+    ViTri NVARCHAR(100) NOT NULL,
+    MaSP NVARCHAR(50) NOT NULL,
+    TonKho INT NOT NULL,
+    NhaCC NVARCHAR(100) NOT NULL,
+    GiaNhap DECIMAL(18, 2) NOT NULL,
+    PRIMARY KEY (ViTri),
+	foreign key (MaSP) references SanPham(MaSP)
+);
+drop table Kho
+
+CREATE TABLE SanPham (
+    MaSP NVARCHAR(50) PRIMARY KEY,
+    TenSP NVARCHAR(100) NOT NULL,
+    GiaBan DECIMAL(18, 2) NOT NULL
+);
+drop table SanPham
+
+CREATE TABLE HoaDon (
+    MaHD NVARCHAR(50) PRIMARY KEY,
+    NgayLap DATE NOT NULL,
+    MaSP NVARCHAR(50) NOT NULL,
+    SoLuong INT NOT NULL,
+    MaNV NVARCHAR(50) NOT NULL,
+    FOREIGN KEY (MaSP) REFERENCES SanPham(MaSP),
+    FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV)
+);
+drop table HoaDon
+
+
+CREATE TABLE NhanVien (
+    MaNV NVARCHAR(50) PRIMARY KEY,
+    TenNV NVARCHAR(100) NOT NULL,
+    DiaChi NVARCHAR(200),
+    SDT NVARCHAR(15),
+    TaiKhoan NVARCHAR(50),
+    Luong INT
+);
+
+drop table NhanVien
+INSERT INTO NguoiDung (TaiKhoan, MatKhau, MaLoaiND)
+VALUES 
+('user1', 'password1', 'nhanvien'),
+('user2', 'password2', 'nhanvien'),
+('admin', 'adminpass', 'admin');
+
+
+INSERT INTO SanPham (MaSP, TenSP, GiaBan)
+VALUES 
+('SP001', 'Gạo ST25', 20000),
+('SP002', 'Gạo Jasmine', 18000),
+('SP003', 'Gạo Nhat', 25000);
+
+
+INSERT INTO Kho (ViTri, MaSP, TonKho, NhaCC, GiaNhap)
+VALUES 
+('VT001', 'SP001', 100, 'Nhà cung cấp A', 19000),
+('VT002', 'SP002', 150, 'Nhà cung cấp B', 17000),
+('VT003', 'SP003', 80, 'Nhà cung cấp C', 24000);
+
+INSERT INTO NhanVien (MaNV, TenNV, DiaChi, SDT, TaiKhoan, Luong)
+VALUES 
+('NV001', 'Nguyễn Văn A', 'Hà Nội', '0123456789', 'user1', 5000000),
+('NV002', 'Trần Thị B', 'Hồ Chí Minh', '0987654321', 'user2', 6000000);
+
+
+INSERT INTO HoaDon (MaHD, NgayLap, MaSP, SoLuong, MaNV)
+VALUES 
+('HD001', '2024-10-01', 'SP001', 5, 'NV001'),
+('HD002', '2024-10-02', 'SP002', 10, 'NV002'),
+('HD003', '2024-10-03', 'SP003', 3, 'NV001');
+
+delete from NguoiDung where MaLoaiND = '3';

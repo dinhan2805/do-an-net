@@ -1,0 +1,43 @@
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.exe.config
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.exe
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.pdb
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.FormLogin.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.Properties.Resources.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.exe
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.pdb
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.FormHeThong.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.frmSanPham.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.frmKho.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.NguoiDung.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.NhanVien.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.HoaDon.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.ThongKe.resources
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.Design.dll
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.dll
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Desktop\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.CopyComplete
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.exe.config
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.exe
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\DoAnChamNet.pdb
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.Design.dll
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.dll
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.AssemblyReference.cache
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.FormLogin.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.FormHeThong.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.frmKho.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.frmSanPham.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.HoaDon.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.NguoiDung.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.NhanVien.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.Properties.Resources.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.ThongKe.resources
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.GenerateResource.cache
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.csproj.CoreCompileInputs.cache
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnCham.B4A49C1B.Up2Date
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.exe
+C:\Users\kocan\OneDrive\Máy tính\do an .net\do an .net\DoAnChamNet\DoAnChamNet\obj\Debug\DoAnChamNet.pdb
